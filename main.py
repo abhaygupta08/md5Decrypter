@@ -128,4 +128,3 @@ def crackmd5():
 		else:
 			return "Invalid Request"
 
-app.run(0.0.0.0)
